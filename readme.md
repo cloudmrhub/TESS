@@ -1,33 +1,29 @@
-<img width="1740" height="432" alt="mroptimum-banner-github1" src="https://github.com/user-attachments/assets/779c2f55-418e-4fe5-af35-c063a8c22f6f" />
 
-# MR Optimum
 
-**MR Optimum** is an open-source toolbox for estimation of the signal-to-noise ratio of magnetic
-resonance images. Visit the [project page](https://cmr.cloudmrhub.com/apps/mroptimum/) for more information.
+# TESS
+
+**TESS** is an open-source toolbox that predicts temperature increases associated with the SAR levels of pulse sequences during MRI experiments. Visit the [project page](https://cmr.cloudmrhub.com/apps/tess/) for more information.
 
 ## Repositories
 The code is organized in three repositories. The backend tools can be used independently from
 the web GUI. Visit the link below for instructions.
 
-[MR-Optimum-webgui](https://github.com/cloudmrhub/mroptimum-webgui): the user interface (frontend)
+[TESS-webgui](https://github.com/cloudmrhub/tess-frontend): the user interface (frontend)
 
-[MR-Optimum-tools](https://github.com/cloudmrhub/mroptimum-tools): computational methods
+[TESS-tools](https://github.com/cloudmrhub/tess-tools): computational methods
 
-[MR-Optimum-app](https://github.com/cloudmrhub/mroptimum-app): routines for cloud execution, orchestration, and scaling
+[TESS-app](https://github.com/cloudmrhub/TESS-app): routines for cloud execution, orchestration, and scaling
 
 ## References
 Please cite the following articles if you use these software tools.
 
-Montin E, Lattanzi R. Seeking a Widely Adoptable Practical Standard to Estimate Signal-to-Noise Ratio in Magnetic Resonance Imaging for Multiple-Coil Reconstructions.
-<em>J Magn Reson Imaging</em>. 2021;54(6):1952-1964. [doi:10.1002/jmri.27816
-](https://doi.org/10.1002/jmri.27816)
+Montin E, Carluccio G, Collins C, Lattanzi R. A web-accessible tool for temperature estimation from SAR simulations (TESS). <em>Proceedings of the 30th Scientific Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM)</em>. London, United Kingdom; May 7–12, 2022. Abstract 582.
 
-Montin E, Nguyen XT, Lattanzi R. MR Optimum: A web-based open-source tool for standardized signal-to-noise ratio evaluation in MRI. <em> Comput Methods Programs Biomed Update</em>. 
-2026;9:100235. [doi:10.1016/j.cmpbup.2026.100235](https://doi.org/10.1016/j.cmpbup.2026.100235)
+Montin E, Carluccio G, Collins CM, Lattanzi R. A serverless implementation of a tool for temperature and SAR estimation (TESS 2.0). <em>2024 E-Health and Bioengineering Conference (EHB)</em>. November 14–15, 2024; Iași, Romania:1-4. doi:10.1109/EHB64556.2024.10805647
 
 ## **License**
 
-MR Optimum is released under the **MIT License**.
+TESS is released under the **MIT License**.
 
 ## **Disclaimer**
-MR Optimum is intended for research purposes. The code is continuously developed and may contain bugs. We strongly encourage the users to provide feedback and report bugs and potential errors.
+TESS is intended for research purposes. The code is continuously developed and may contain bugs. We strongly encourage the users to provide feedback and report bugs and potential errors.
