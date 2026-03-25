@@ -2,7 +2,7 @@
 
 # TESS
 
-**TESS** is an open-source toolbox that predicts temperature increases associated with the SAR levels of pulse sequences during MRI experiments. Visit the [project page](https://cmr.cloudmrhub.com/apps/tess/) for more information.
+**TESS** is an open-source toolbox that predicts temperature increases associated with the SAR levels of pulse sequences during MRI experiments. Visit the [project page](https://cmr.cloudmrhub.com/apps/tess/){:target="_blank"} for more information.
 
 ## Repositories
 The code is organized in three repositories. The backend tools can be used independently from
